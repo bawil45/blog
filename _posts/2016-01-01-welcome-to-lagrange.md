@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Welcome to My Blog!"
+author: "Bagus Wilar"
 categories: journal
-tags: [documentation,sample]
+tags: [documentation,Greatings]
 image: mountains.jpg
 ---
 
