@@ -4,7 +4,7 @@ title: "Installing Onedrive on Ubuntu 20.04"
 author: "Bagus Wilar"
 categories: tutorial
 tags: [onedrive,ubuntu,software,cloudstorage,microsoft365]
-image:onedrive command1
+image:onedrive command1.jpg
 ---
 
 
