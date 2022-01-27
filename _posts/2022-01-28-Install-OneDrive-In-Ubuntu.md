@@ -27,7 +27,7 @@ Open terminal, then do the following step:
      type 'sudo apt-get install onedrive'<br>
 4. Run onedrive<br>
      type 'onedrive'<br>
-5. Link will appear on microsoft online for login to your account. Block the link and right click then open the link.<br>
+5. Link will appear on terminal to direct you to go to microsoft online for login to your account. Block the link and right click on terminal then choose open the link.<br>
 6. Blank page of browser will appear then you have to copy the link in the address bar to the terminal<br>
 7. To know the command used for onedrive<br>
      type 'onedrive --h'<br>
