@@ -38,14 +38,14 @@ Open terminal, then do the following step:
     
 	Solve:
 	
-	1) open home/bagus/
+	1) open home/bagus/<br>
 	2) create folder name OneDrive
 
 2. When tried to execute onedrive --monitor it says that the destination folder var/log/onedrive doesn't exist
 
     Solve:
 	
-	1) open terminal
+	1) open terminal<br>
 	2) type 'cd var/log'
 	3) type 'sudo mkdir onedrive'
 
