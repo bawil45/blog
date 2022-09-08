@@ -39,9 +39,9 @@ Many program available to open and view a pdf document, but not so many have abi
     A. How to install it?<br>
          1) open terminal<br>
          2) Type : <br>
-              sudo apt-get install python3-distutils-extra python3-wheel python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-poppler-0.18 python3-setuptools
+              sudo apt-get install python3-distutils-extra python3-wheel python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-poppler-0.18 python3-setuptools <br>
          3) Once the installation is finished, the type:<br>
-              pip3 install --user -r https://raw.githubusercontent.com/jeromerobert/pdfarranger/master/requirements.txt
+              pip3 install --user -r https://raw.githubusercontent.com/jeromerobert/pdfarranger/master/requirements.txt <br>
          4) When requierement is set, we will begin the installation. First type:<br>
                sudo add-apt-repository ppa:linuxuprising/apps <br>
                then: <br>
