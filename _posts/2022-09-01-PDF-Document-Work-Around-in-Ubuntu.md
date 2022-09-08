@@ -1,4 +1,3 @@
-<meta charset="UTF-8">
 # Background
 As i am work in Indonesia, Ubuntu is just out of sight Operating System (even though it's free) which everybody are never heard about. The consequences are, we have to make an extra effort for make it work, especially on searching for the subsitution tools which we conviniencely use on Windows. For administration area, deal with tons document, have no tools for modified pdf documents is worst nightmare.  There is several function we usually use and search when working with pdf document:
 1. Input and edit on top of pdf document.
@@ -13,7 +12,7 @@ The fartest i know, there are no apps that have all function at one single softw
 # How We Get There
 ## Input Text On PDF
 Many ways to edit or input text on pdf document, but on this article i will discuss the two easy way to do that:<br>
-1. LibreOffice Draw<br>
+1. LibreOffice Draw <br>
     This apps is the lighter than inkscape in term of memory management. But, sometimes cannot handle the pdf file better thank inkscape. For using this apps you may   follow the step below:<br>
     A. Where to get it?<br>
          1) From ubuntu software, just search on the store with keyword "LibreOffice". Then Install it, after that you will get LibreOffice Draw on your Ubuntu.<br>
