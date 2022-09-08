@@ -1,5 +1,5 @@
 # Background
-As i am work in Indonesia, Ubuntu is just out of sight Operating System which everybody are never heard about. The consequences are, we have to make an extra effort for make it work, especially on searching for the subsitution tools which we conviniencely use on Windows. For administration area, deal with tons document, have no tools for modified pdf documents is worst nightmare.  There is several function we usually use and search when working with pdf document:
+As i am work in Indonesia, Ubuntu is just out of sight Operating System (even though it's free) which everybody are never heard about. The consequences are, we have to make an extra effort for make it work, especially on searching for the subsitution tools which we conviniencely use on Windows. For administration area, deal with tons document, have no tools for modified pdf documents is worst nightmare.  There is several function we usually use and search when working with pdf document:
 1. Input and edit on top of pdf document.
 2. Re-Arrange the structure of pdf document page by page.
 3. Compress the size of pdf document.
