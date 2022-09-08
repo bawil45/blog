@@ -4,7 +4,7 @@ title: "PDF Document Work Around in Ubuntu"
 author: "Bagus Wilar"
 categories: tutorial
 tags: [onedrive,ubuntu,software,pdf,document,office]
-image: densify.png
+image: densify.jpg
 ---
 
 
