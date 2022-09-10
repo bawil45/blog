@@ -78,7 +78,8 @@ Many program available to open and view a pdf document, but not so many have abi
                
    B. How to use it? 
    
-         1. The user guidance for this apps is as image below. 
+         1. The user guidance for this apps is as image below.
+         ![PDF Arranger](https://github.com/bawil45/blog/raw/gh-pages/assets/img/PDF%20Arranger.jpg "Densify Interface") 
     
 ## Optimize Size of PDF 
 
@@ -93,6 +94,6 @@ B. How to install<br>
     2. Click Properties-> Permission-> Execute-> Check-> Close. <br>
 
 C. How to use it?<br>
-   1. Simply just click 2 time on the .AppImage file you have set before. 
+   1. Simply just click 2 times on the .AppImage file you have set before. 
    2. When densify is open, the user guidance is as image below. 
-     ![Densify Interface](https://github.com/bawil45/blog/raw/gh-pages/assets/img/Densify%201.jpg "Densify Interface"). 
+     ![Densify Interface](https://github.com/bawil45/blog/raw/gh-pages/assets/img/Densify%201.jpg "Densify Interface") 
