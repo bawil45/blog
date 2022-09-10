@@ -24,7 +24,7 @@ The fartest i know, there are no apps that have all function at one single softw
 ## Input Text On PDF
 Many ways to edit or input text on pdf document, but on this article i will discuss the two easy way to do that:<br>
 1. LibreOffice Draw <br>
-    This apps is the lighter than inkscape in term of memory management. But, sometimes cannot handle the pdf file better thank inkscape. For using this apps you may   follow the step below:<br>
+    This apps is the lighter than inkscape in term of memory management. But, sometimes cannot handle the pdf file better thank inkscape. For using this apps you may       follow the step below:<br>
     A. Where to get it?<br>
          1) From ubuntu software, just search on the store with keyword "LibreOffice". Then Install it, after that you will get LibreOffice Draw on your Ubuntu.<br>
          2) From terminal, for this, you have to do this step:<br>
@@ -46,20 +46,20 @@ Many ways to edit or input text on pdf document, but on this article i will disc
 ## Re-Arange Structure of PDF
 Many program available to open and view a pdf document, but not so many have ability to re arrange the order of document pages. So, i recommend this program to do that task:<br>
 1. PDF Arranger<br>
-    A. How to install it?<br>
-         1) open terminal<br>
-         2) Type : <br>
-              sudo apt-get install python3-distutils-extra python3-wheel python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-poppler-0.18 python3-setuptools <br>
-         3) Once the installation is finished, the type:<br>
-              pip3 install --user -r https://raw.githubusercontent.com/jeromerobert/pdfarranger/master/requirements.txt <br>
-         4) When requierement is set, we will begin the installation. First type:<br>
-               sudo add-apt-repository ppa:linuxuprising/apps <br>
+    1. How to install it?<br>
+         1. open terminal<br>
+         2. Type : <br>
+              > sudo apt-get install python3-distutils-extra python3-wheel python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-poppler-0.18 python3-setuptools <br>
+         3. Once the installation is finished, the type:<br>
+              > pip3 install --user -r https://raw.githubusercontent.com/jeromerobert/pdfarranger/master/requirements.txt <br>
+         4. When requierement is set, we will begin the installation. First type:<br>
+               > sudo add-apt-repository ppa:linuxuprising/apps <br>
                then: <br>
-               sudo apt update <br>
+               > sudo apt update <br>
                the last: <br>
-               sudo apt install pdfarranger <br>
+               > sudo apt install pdfarranger <br>
 2. How to use it? <br>
-    A. The user guidance for this apps is as image below. <br>
+    1. The user guidance for this apps is as image below. <br>
     
 ## Optimize Size of PDF <br>
 For this purpose, i only could find one program that working smoothly and also the most efficient on memory usage. The apps name is Densify. <br>
@@ -72,4 +72,4 @@ B. How to install <br>
 C. How to use it? <br>
      1. Simply just click 2 time on the .AppImage file you have set before. <br>
      2. When densify is open, the user guidance is as image below. <br>
-     image: Densify.jpg 
+     ![alt text]((https://github.com/bawil45/blog/blob/gh-pages/assets/img/Densify.jpg) "Densify Interface") 
