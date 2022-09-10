@@ -95,4 +95,4 @@ B. How to install<br>
 C. How to use it?<br>
    1. Simply just click 2 time on the .AppImage file you have set before. 
    2. When densify is open, the user guidance is as image below. 
-     ![Densify Interface](https://github.com/bawil45/blog/blob/gh-pages/assets/img/Densify.jpg "Densify Interface"). 
+     ![Densify Interface](https://github.com/bawil45/blog/raw/gh-pages/assets/img/Densify%201.jpg "Densify Interface"). 
