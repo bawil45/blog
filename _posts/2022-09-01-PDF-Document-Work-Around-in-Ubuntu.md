@@ -99,6 +99,6 @@ B. How to install
     2. Click Properties-> Permission-> Execute-> Check-> Close. 
 
 C. How to use it? 
-     1. Simply just click 2 time on the .AppImage file you have set before. 
-     2. When densify is open, the user guidance is as image below. 
+   1. Simply just click 2 time on the .AppImage file you have set before. 
+   2. When densify is open, the user guidance is as image below. 
      ![Densify Interface](https://github.com/bawil45/blog/blob/gh-pages/assets/img/Densify.jpg "Densify Interface") 
