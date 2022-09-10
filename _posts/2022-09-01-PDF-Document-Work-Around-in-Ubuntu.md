@@ -55,12 +55,15 @@ Many ways to edit or input text on pdf document, but on this article i will disc
     B. How to use it?<br>
          1) Input Text and Edit Text On Top of PDF Document.<br>
          <br> Step 1
+         <br> Open Inkscape-> Click on text icon at the left bar
+         ![Inkscape Text](https://github.com/bawil45/blog/raw/gh-pages/assets/img/Inkscape%20Text.jpg "Inkscape Text")
+         3) Input Text Image and Overlay On Top Of PDF File.<br>
+         <br> Step 1
          <br> Open Inkscape-> Open file-> Click File-> Import
          ![Inkscape](https://github.com/bawil45/blog/raw/gh-pages/assets/img/Inkscape%201.png "Inkscape")
          <br> Step 2
          <br> Add shape on top of the image-> Block the canvas area-> Click object-> Clip-> Set Clip
          ![Inkscape 1](https://github.com/bawil45/blog/raw/gh-pages/assets/img/Inkscape%203.png "Inkscape 1")
-         3) Input Text Image and Overlay On Top Of PDF File.<br>
    
 ## Re-Arange Structure of PDF
 
