@@ -76,8 +76,7 @@ Many program available to open and view a pdf document, but not so many have abi
               the last: 
               > sudo apt install pdfarranger.
                
-   B. How to use it? 
-   
+   B. How to use it?<br>
          1. The user guidance for this apps is as image below.
          ![PDF Arranger](https://github.com/bawil45/blog/raw/gh-pages/assets/img/PDF%20Arranger.jpg "Densify Interface") 
     
