@@ -25,32 +25,47 @@ The fartest i know, there are no apps that have all function at one single softw
 # How We Get There
 
 ## Input Text On PDF
+
 Many ways to edit or input text on pdf document, but on this article i will discuss the two easy way to do that:<br>
+
 1. LibreOffice Draw <br>
+
     This apps is the lighter than inkscape in term of memory management. But, sometimes cannot handle the pdf file better thank inkscape. For using this apps you may       follow the step below:<br>
+    
     A. Where to get it?<br>
+    
          1) From ubuntu software, just search on the store with keyword "LibreOffice". Then Install it, after that you will get LibreOffice Draw on your Ubuntu.<br>
          2) From terminal, for this, you have to do this step:<br>
               a) type: sudo apt-get update<br>
               b) type: sudo apt-get install libreoffice<br>
+              
     B. How to use it?<br>
+    
          1) Input Text and Edit Text On Top of PDF Document<br>
          2) Input Text Image and Overlay On Top Of PDF File<br>
+         
 3. Inkscape<br>
-    Inkscape is an replacement apps for photoshop in windows, you can even use it on windows. Pretty handy apps, but if you not yet familiar with it, the adaptation will takes time. On Ubuntu, inkscape could help you for editing an PDF Document. The step is as follow:<br>
-     A. Where to get it?<br>
+
+    Inkscape is an replacement apps for photoshop in windows, you can even use it on windows. Pretty handy apps, but if you not yet familiar with it, the adaptation       will takes time. On Ubuntu, inkscape could help you for editing an PDF Document. The step is as follow:<br>
+    
+    A. Where to get it?<br>
+    
          1) From ubuntu software, just search on the store with keyword "Inkscape". Then Install it, after that you will get Inkscape on your Ubuntu.<br>
          2) From terminal, for this, you have to do this step:<br>
               a) type: sudo apt-get update<br>
               b) type: sudo apt-get install inkscape<br>
+              
     B. How to use it?<br>
          1) Input Text and Edit Text On Top of PDF Document<br>
          2) Input Text Image and Overlay On Top Of PDF File<br>
-         3) 
+   
 ## Re-Arange Structure of PDF
+
 Many program available to open and view a pdf document, but not so many have ability to re arrange the order of document pages. So, i recommend this program to do that task:<br>
+
 1. PDF Arranger<br>
-    1. How to install it?<br>
+
+    A. How to install it?<br>
          1. open terminal<br>
          2. Type : <br>
               > sudo apt-get install python3-distutils-extra python3-wheel python3-gi python3-gi-cairo gir1.2-gtk-3.0 gir1.2-poppler-0.18 python3-setuptools <br>
@@ -62,17 +77,21 @@ Many program available to open and view a pdf document, but not so many have abi
                > sudo apt update <br>
                the last: <br>
                > sudo apt install pdfarranger <br>
-2. How to use it? <br>
-    1. The user guidance for this apps is as image below. <br>
+    B. How to use it? <br>
+         1. The user guidance for this apps is as image below. <br>
     
 ## Optimize Size of PDF <br>
+
 For this purpose, i only could find one program that working smoothly and also the most efficient on memory usage. The apps name is Densify. <br>
+
 A. Where to get it? <br>
-     Please download the latest version on [Desify](https://github.com/hkdb/Densify/releases) <br>
+    Please download the latest version on [Desify](https://github.com/hkdb/Densify/releases) <br>
+
 B. How to install <br>
     This is the best part of using Ubuntu, the things is easy and simple, after download the desify .AppImage file, just do this few simple step: <br>
     1. Right click on densify file you've just downloaded. <br>
     2. Click Properties->Permission->Execute->Check->Close. <br>
+
 C. How to use it? <br>
      1. Simply just click 2 time on the .AppImage file you have set before. <br>
      2. When densify is open, the user guidance is as image below. <br>
