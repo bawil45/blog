@@ -53,11 +53,11 @@ Many ways to edit or input text on pdf document, but on this article i will disc
               b) type: sudo apt-get install inkscape<br>
               
     B. How to use it?<br>
-         <br>1) Input Text and Edit Text On Top of PDF Document.<br>
+         <br> 1) Input Text and Edit Text On Top of PDF Document.<br>
          <br> Step 1
          <br> Open Inkscape-> Click on text icon at the left bar
          ![Inkscape Text](https://github.com/bawil45/blog/raw/gh-pages/assets/img/Inkscape%20Text.jpg "Inkscape Text")
-         <br>3) Input Text Image and Overlay On Top Of PDF File.<br>
+         <br> 3) Input Text Image and Overlay On Top Of PDF File.<br>
          <br> Step 1
          <br> Open Inkscape-> Open file-> Click File-> Import
          ![Inkscape](https://github.com/bawil45/blog/raw/gh-pages/assets/img/Inkscape%201.png "Inkscape")
