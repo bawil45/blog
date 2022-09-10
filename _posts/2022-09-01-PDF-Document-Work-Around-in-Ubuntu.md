@@ -16,11 +16,14 @@ As i am work in Indonesia, Ubuntu is just out of sight Operating System (even th
 3. Compress the size of pdf document.
 
 The fartest i know, there are no apps that have all function at one single software. the condition i have maybe commonly faced by ubuntu user in Indonesia. This article will focused on diccussing the tools effective to cripple all those problems. So, please enjoy.  
+
 # Objective
 1. Find the effective tools on input and edit text on PDF Document
 2. Change the structure of PDF Document
 3. Make the pdf size as small as posible while maintaining the readable of the document
+
 # How We Get There
+
 ## Input Text On PDF
 Many ways to edit or input text on pdf document, but on this article i will discuss the two easy way to do that:<br>
 1. LibreOffice Draw <br>
@@ -43,6 +46,7 @@ Many ways to edit or input text on pdf document, but on this article i will disc
     B. How to use it?<br>
          1) Input Text and Edit Text On Top of PDF Document<br>
          2) Input Text Image and Overlay On Top Of PDF File<br>
+         3) 
 ## Re-Arange Structure of PDF
 Many program available to open and view a pdf document, but not so many have ability to re arrange the order of document pages. So, i recommend this program to do that task:<br>
 1. PDF Arranger<br>
